@@ -189,18 +189,8 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 16adabf803243ce4e8446cf496786e32, type: 3}
   - {fileID: 21300000, guid: 48adcdbde36f7ae4eab65a7a9630cf43, type: 3}
   - {fileID: 21300000, guid: 52c6f339efdb9d243b668588773bb904, type: 3}
-  - {fileID: 21300000, guid: 7c734dff692c1b34c9a7b8792dbb20d3, type: 3}
   attack2ChargeFrames:
   - {fileID: 21300000, guid: 4080999ded3e10e45a6e1d2071b23204, type: 3}
-  - {fileID: 21300000, guid: 32892729486dc244e89ea319ec116acd, type: 3}
-  - {fileID: 21300000, guid: c207c0611ee60d248af63719cf32158c, type: 3}
-  - {fileID: 21300000, guid: 5f2a78a8b3e72444fb41a849aea5bf42, type: 3}
-  - {fileID: 21300000, guid: 8ad19d8f1d3f0e24898971be79adb276, type: 3}
-  - {fileID: 21300000, guid: 76e20409298edee4a859232edace7661, type: 3}
-  - {fileID: 21300000, guid: 3fcf7c5493abe6c488d4867870b07b27, type: 3}
-  - {fileID: 21300000, guid: 429efd2cc20712b4db148dae1b8c4580, type: 3}
-  - {fileID: 21300000, guid: 569cb3225a031ce46b73dd25c48130cb, type: 3}
-  - {fileID: 21300000, guid: 5547cb5a8260ea349aa4ae0ea6b56c64, type: 3}
   attack2DashFrames:
   - {fileID: 21300000, guid: e5f3afeefb119aa438a0238437bf2f6f, type: 3}
   - {fileID: 21300000, guid: ce90a94cc2f82434b99b213584f53fe1, type: 3}
