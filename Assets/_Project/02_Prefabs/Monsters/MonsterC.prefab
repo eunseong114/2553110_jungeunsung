@@ -265,12 +265,12 @@ MonoBehaviour:
   deathFrameTimes: []
   attack1Sfx:
     clip: {fileID: 8300000, guid: bc5da74bcfb16544ca2f0eb87acba661, type: 3}
-    volume: 1
-    pitchVariance: 0.05
+    volume: 0.54
+    pitchVariance: 0.029
   attack2Sfx:
     clip: {fileID: 8300000, guid: dfc8ac7346fd01549ae338b1d0ee082d, type: 3}
     volume: 1
-    pitchVariance: 0.05
+    pitchVariance: 0.056
   hitSfx:
     clip: {fileID: 8300000, guid: 61e37d32b9097114e9d5f6743f937bad, type: 3}
     volume: 1

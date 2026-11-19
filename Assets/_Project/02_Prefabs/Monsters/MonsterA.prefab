@@ -217,7 +217,7 @@ MonoBehaviour:
   - 0.1429
   attackDamageFrame: 4
   attackSfx:
-    clip: {fileID: 8300000, guid: 00edbd345f77b5145a339ed4da43f264, type: 3}
+    clip: {fileID: 8300000, guid: 76437e39cf7cb4041a6279520d591cc6, type: 3}
     volume: 1
     pitchVariance: 0.032
   hitSfx:
