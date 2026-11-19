@@ -444,6 +444,10 @@ MonoBehaviour:
     video: {fileID: 0}
   - image: {fileID: 21300000, guid: 25f1cab3130f16e4ca86b34a99a1ce81, type: 3}
     video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 52502e78aec0f174e84b00ac81186cc9, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: fdffa022f34f3d848ba912367ba89c88, type: 3}
+    video: {fileID: 0}
   prevButtonObject: {fileID: 2032162175}
   nextSceneName: Title
 --- !u!4 &420365790
